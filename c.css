@@ -1,0 +1,18 @@
+h1{
+    color:blue
+}
+
+body{
+    background-color: pink;
+}
+
+button{
+    background-attachment: fixed;
+    background-color: blue;
+    color: white;
+}
+.heading{
+    background-color: yellow;
+    color:aliceblue
+
+}
